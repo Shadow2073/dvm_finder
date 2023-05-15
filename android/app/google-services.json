@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "185290826225",
+    "firebase_url": "https://dvm-finder-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dvm-finder",
+    "storage_bucket": "dvm-finder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185290826225:android:3f17de113c92c1331fa450",
+        "android_client_info": {
+          "package_name": "com.example.dvm_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185290826225-h9teuc0ka8v77rjb9vbnvdtp1ga61pf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGNW4JkqYfJC5wT_p4Vs1lJQhHyTHnIdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185290826225-h9teuc0ka8v77rjb9vbnvdtp1ga61pf7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185290826225-sg8b7ih92sf4d1jom63vjgv78ufiksr6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.friendFinder"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185290826225:android:54f1b9710e5db2fc1fa450",
+        "android_client_info": {
+          "package_name": "com.example.friend_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185290826225-h9teuc0ka8v77rjb9vbnvdtp1ga61pf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGNW4JkqYfJC5wT_p4Vs1lJQhHyTHnIdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185290826225-h9teuc0ka8v77rjb9vbnvdtp1ga61pf7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185290826225-sg8b7ih92sf4d1jom63vjgv78ufiksr6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.friendFinder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
